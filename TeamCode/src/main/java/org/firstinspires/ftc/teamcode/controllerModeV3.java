@@ -11,7 +11,6 @@ public class controllerModeV3<telemetry> extends LinearOpMode {
     //toggle and state variables
     boolean planeLaunched = false;
 
-
     //these are all our motors
     private DcMotor FrontL;
     private DcMotor BackL;
